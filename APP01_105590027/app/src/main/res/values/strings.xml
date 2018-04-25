@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">APP01_105590027</string>
+    <string sorce="nb_sorce">成績</string>
+    <string name="sorce">成績</string>
+    <string name="string1">請輸入整數成績</string>
+    <string name="btn">成績轉換</string>
+    <string name="tex2">等第:</string>
+</resources>
